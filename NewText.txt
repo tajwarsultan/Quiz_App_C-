@@ -1,0 +1,18 @@
+
+Q1) Choose the respective delete operator usage for the expression ‘ptr=new int[100]’.
+
+
+Q2) Which is the storage specifier used to modify the member variable even though the class object is a constant object?
+
+
+Q3) 
+A) - Constructor
+
+Q4) 
+A) - Data
+
+Q5) A) - Function template
+
+
+Q6) 
+A) Thomas Kushz

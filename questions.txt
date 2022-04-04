@@ -1,0 +1,127 @@
+Choose the respective delete operator usage for the expression ‘ptr=new int[100]’.
+
+A) delete ptr;
+
+B) delete ptr[]
+
+C) delete[] ptr
+
+D) -[]delete ptr
+
+
+
+Which is the storage specifier used to modify the member variable even though the class object is a constant object?
+
+A) auto
+
+B) register
+
+C) static
+D) Mutable
+
+
+
+Class function which is called automatically as soon as the object is created is called as __
+
+A) - Constructor
+
+B) - Destructor
+
+C) - Friend function
+
+D) - Inline function.
+
+
+
+The programs machine instructions are store in __ memory segment.
+
+A) - Data
+
+B) - Stack
+
+C) - Heap
+
+D) - Code
+
+
+What is a generic class.
+
+A) - Function template
+
+B) - Class template
+
+C) - Inherited class
+
+D) - None of the above.
+
+
+
+
+C++ was developed by ___
+
+A) Thomas Kushz
+
+B) John Kemney
+
+C) Bjarne Stroutstrup
+
+D) James Goling
+
+
+
+Which one of the following is a keyword?
+
+A) Size
+
+B) Key
+
+C) Jump
+
+D) Switch
+
+
+
+____ is the smallest individual unit in a program.
+
+A) Variable
+
+B) Control
+
+C) Character
+
+D) Token
+
+
+What is a constant that contains a single character enclosed within single quotes?
+
+A) Character
+
+B) Numeric
+
+C) Fixed
+
+D) Floating point
+
+
+
+The modulus operator uses ___ character.
+
+A) +
+
+B) *
+
+C) /
+
+D) %
+
+
+
+Every variable should be separated by ___ separator.
+
+A) Dot
+
+B) Colon
+
+C) Comma
+
+D) Semicolon
